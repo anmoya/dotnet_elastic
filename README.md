@@ -27,7 +27,7 @@ Body
 {"name":"User6","age":"37","address":"001 Street"}
 
 ```
-Last blanc line intentional.
+Insert a blanc line intentional at last.
 
 # Build and Run dotnet api
 In the project, run `dotnet build` and, if no errors ocurred, `dotnet run`
