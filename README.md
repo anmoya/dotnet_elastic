@@ -12,7 +12,7 @@ Do a POST request to `https://localhost:9200/__collection__/_bulk`
 Change __collection__ for the name of your collection, i.e. _users_
 
 Body
-```
+```json
 {"index":{}}
 {"name":"User1","age":"30","address":"123 Street"}
 {"index":{}}
